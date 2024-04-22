@@ -1,0 +1,46 @@
+.travelerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 64px;
+  justify-content: center;
+  margin: 163px 0;
+  padding: 0 96px;
+}
+
+.travelerPhoto {
+  display: flex;
+  flex-direction: column;
+  flex: 1 2 1;
+}
+
+.travelerPhoto > img {
+  border-radius: 24px;
+  max-height: 480px;
+}
+
+.travelerDescription {
+  flex: 1 2 50%;
+  margin-bottom: 36px;
+  max-width: 600px;
+}
+
+.travelerDescription > h1 {
+  margin: 0 0 36px;
+}
+
+@media screen and (max-width: 768px) {
+  .travelerContainer {
+    margin: 0 0 245px;
+    padding: 0 48px;
+  }
+
+  .travelerContainer {
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .travelerDescription > h1 {
+    font-size: 24px;
+  }
+}

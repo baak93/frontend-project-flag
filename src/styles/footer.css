@@ -1,0 +1,33 @@
+.footer {
+  align-items: center;
+  background-color: #3b465c;
+  bottom: 0;
+  color: #f8ebee;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.footer > p {
+  margin: 12px 48px;
+  text-align: center;
+}
+
+.footerIcons {
+  display: flex;
+}
+
+.footerIcons img {
+  height: 24px;
+  margin: 12px;
+  width: 24px;
+}
+
+.footerIcons a {
+  transition: all 0.4s ease;
+}
+
+.footerIcons a:hover {
+  transform: scale(1.4);
+}

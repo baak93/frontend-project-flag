@@ -1,0 +1,37 @@
+.cardsSection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  margin: 48px 0;
+  padding: 0 96px;
+}
+
+.card {
+  border-radius: 15px;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  height: 300px;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  width: 300px;
+}
+
+.card:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.card > img {
+  height: 70%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.card > p {
+  padding: 0 16px;
+}
+
+.card > p > span {
+  font-size: 24px;
+  font-weight: 700;
+}

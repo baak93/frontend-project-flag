@@ -1,0 +1,140 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 96px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.header > a {
+  display: flex;
+  color: #f8ebee;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.header a img {
+  height: 32px;
+  margin-left: 8px;
+  width: 32px;
+}
+
+.menuIcon {
+  color: #f8ebee;
+  cursor: pointer;
+  display: none;
+  font-size: 24px;
+}
+
+.menuMask {
+  display: none;
+}
+
+.closeMenuIcon {
+  display: none;
+}
+
+.menuNav {
+  display: flex;
+  gap: 20px;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li > a {
+  color: #f8ebee;
+  font-size: 20px;
+  padding: 8px;
+  text-decoration: none;
+}
+
+li > a:hover {
+  background-color: #f8ebee;
+  border-radius: 8px;
+  color: #3b465c;
+}
+
+.navIcon {
+  filter: invert(83%) sepia(25%) saturate(100%) hue-rotate(302deg)
+    brightness(111%) contrast(94%);
+  height: 24px;
+  width: 24px;
+}
+
+.headerBackground {
+  background-color: #3b465c;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.spacer {
+  margin-top: 80px;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 48px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .menuNav {
+    display: none;
+  }
+
+  .header.open .menuNav {
+    background-color: #3b465c;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    justify-content: flex-start;
+    padding: 64px 16px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 40%;
+  }
+
+  .menuIcon {
+    display: block; /* Mostra o ícone por padrão */
+  }
+
+  .header.open .menuIcon {
+    display: none;
+  }
+
+  .header.open .menuMask {
+    background-color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    display: block;
+    height: 100vh;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60%;
+  }
+
+  .header.open .closeMenuIcon {
+    color: #f8ebee;
+    cursor: pointer;
+    display: block;
+    font-size: 28px;
+    position: absolute;
+    right: 48px;
+    z-index: 1;
+  }
+}

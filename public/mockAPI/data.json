@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Buenos Aires",
+    "lat": -34.6142,
+    "lon": -58.3811,
+    "from": "01/01/2022",
+    "to": "20/01/2022",
+    "cardImg": "https://images.unsplash.com/photo-1694560446249-240043f487bc?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1694560446249-240043f487bc?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1586354822120-bf910e563cdf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "../images/buenos-aires.jpg",
+      "https://images.unsplash.com/photo-1593014245414-cf9ce27cf1a5?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1601319841513-55b4496b80fd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "In Buenos Aires, the rhythm of tango echoes through every street, unveiling a tapestry of cultural diversity, history, passion, and artistic expression. San Telmo's historic cobblestone streets exhibit lively tango performances and antique markets, transporting visitors to the past. La Boca's colorful Caminito street museum merges art, music, and dance, creating an enchanting atmosphere. The energy around La Bombonera stadium reflects the city's football fervor, an inseparable part of Argentine culture. Avenida 9 de Julio, with its iconic Obelisco, stands as a grand testament to the city's grandiosity. Recoleta, with its sophisticated ambiance, presents elegance, and houses the final resting places of famous historical figures in the renowned Recoleta Cemetery. Palermo Soho showcases modernity amidst European-inspired architecture, providing chic boutiques and sophisticated dining experiences. Every corner of Buenos Aires tells a story, from traditional parrillas serving succulent steaks to cultural spaces such as the world-renowned Teatro Colón opera house. Puerto Madero and Belgrano neighborhoods contribute to the city's cosmopolitan flair, showcasing its evolution. Buenos Aires' allure extends into the evening with lively milongas embodying the essence of tango and the bohemian atmosphere of San Telmo's street cafes. Every step in Buenos Aires creates an immersive experience where the soul of Argentina comes alive."
+  },
+  {
+    "id": 2,
+    "name": "Madrid",
+    "lat": 40.398033,
+    "lon": -3.710935,
+    "from": "10/03/2022",
+    "to": "29/03/2022",
+    "cardImg": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1558370781-d6196949e317?q=80&w=2079&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1543783207-ec64e4d95325?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Madrid is a city rich in history and contemporary spirit that creates a captivating journey through Spain's vibrant capital. The Puerta del Sol is at the heart of the city and is surrounded by historic landmarks such as the majestic Royal Palace, a testament to Spain's royal heritage. The Paseo del Prado's tree-lined boulevards guide the way to famous museums such as the Prado Museum, a treasure trove for art enthusiasts. The La Latina neighborhood invites exploration with its picturesque streets and lively tapas bars, while Retiro Park provides a tranquil oasis in the metropolis. The Gran Vía is an iconic street adorned with striking architecture that leads to modern districts like Malasaña and Chueca, where Madrid's avant-garde atmosphere comes to life in trendy boutiques, art galleries, and contemporary culinary experiences. The bustling Mercado de San Miguel, a historic market, offers a sensory journey through Spanish flavors and gastronomic delights. In the evening, the historic district of Lavapiés and the chic Salamanca neighborhood become lively and vibrant. Whether you are savoring traditional Spanish dishes in a tapas bar, immersing in the arts at Matadero Madrid, or enjoying the lively rhythms of flamenco, Madrid offers a myriad of experiences. Madrid is a city where the essence of Spain's cultural heritage meets the pulse of a modern metropolis. Each step becomes a celebration of history, art, and the vivacious spirit that defines this captivating Spanish capital."
+  },
+  {
+    "id": 3,
+    "cardImg": "https://images.unsplash.com/photo-1598535301312-5b3f8abd2a88?q=80&w=2024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Lisbon",
+    "lat": 38.72044424585432,
+    "lon": -9.168080563826793,
+    "from": "09/06/2022",
+    "to": "19/06/2022",
+    "slides": [
+      "https://images.unsplash.com/photo-1598535301312-5b3f8abd2a88?q=80&w=2024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1578859651203-c7126a106b59?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Lisbon is a city that perfectly blends ancient charm and modern vitality. It offers a unique fusion of tradition and innovation. The historic district of Alfama is a maze of narrow alleys, colorful houses, and a true embodiment of Lisbon's authentic spirit. São Jorge Castle, perched on a hill, provides spectacular panoramic views and allows visitors to catch glimpses of Lisbon's rich history and Moorish influence. The iconic Tram 28 ride through the hills is a must-do experience that immerses visitors in the heart of Lisbon, passing by landmarks such as Lisbon Cathedral and the panoramic Miradouro da Graça. The district of Belém, on the riverfront, showcases Lisbon's maritime history with the ornate Jerónimos Monastery and the iconic Tower of Belém. Indulging in Pastéis de Belém's custard tarts is a must-try culinary delight. Parque das Nações, developed for Expo 98, presents a modern facet with contemporary architecture and innovative spaces. Chiado, an elegant neighborhood, offers upscale boutiques, historic cafes, and a vibrant cultural scene. Lisbon's bohemian side flourishes in Bairro Alto, where narrow streets transform into a lively nocturnal hub of bars and fado houses. The district of Cais do Sodré, along the riverside, unveils the Mercado da Ribeira, Time Out Market, inviting culinary exploration through Portuguese flavors. In Lisbon's warm ambiance, where fado melodies carry tales of bygone eras, each moment becomes an exploration of Portugal's captivating history, culture, and the unique spirit of its capital."
+  },
+  {
+    "id": 4,
+    "name": "Barcelona",
+    "lat": 41.3828939,
+    "lon": 2.1774322,
+    "from": "12/09/2022",
+    "to": "19/09/2022",
+    "cardImg": "https://images.unsplash.com/photo-1578912996078-305d92249aa6?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1578912996078-305d92249aa6?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1630219694734-fe47ab76b15e?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1595954421407-ad5e012b25e5?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Embarking on a journey through Barcelona means entering a city where the past and present blend seamlessly, creating a tapestry of rich culture, architectural marvels, and vibrant street life. Set against the picturesque backdrop of the Mediterranean, Barcelona captivates with its unique blend of Catalonian identity and cosmopolitan flair. The works of the visionary architect Antoni Gaudí dominate the cityscape, with the iconic Sagrada Família standing as a testament to his genius. The whimsical Park Güell and the surreal Casa Batlló showcase Gaudí's distinctive style, adding a touch of fantasy to Barcelona's streets. Exploring the historic Barri Gòtic reveals narrow alleys, medieval buildings, and charming squares, providing a glimpse into the city's medieval past. The bustling La Boqueria market and the lively atmosphere of La Rambla showcase Barcelona's passion for fresh produce and vibrant street culture. Barcelona's beachfront, stretching along the Barceloneta neighborhood, offers a relaxing escape where sandy shores meet the Mediterranean waves. The Olympic Port area, with its modern architecture and vibrant nightlife, adds a contemporary twist to the city's coastal charm. The cultural scene thrives in institutions like the Picasso Museum and the Joan Miró Foundation, celebrating the works of renowned artists. The vibrant neighborhoods of El Raval and Gràcia offer eclectic shops, diverse eateries, and a bohemian atmosphere. In Barcelona, where the Catalan spirit prevails, every corner tells a story of resilience, creativity, and a deep-rooted love for life. Barcelona's architectural wonders, lively neighborhoods, and seaside allure make it an ever-enticing destination for those seeking a perfect blend of history, art, and Mediterranean charm."
+  },
+  {
+    "id": 5,
+    "name": "Geneva",
+    "lat": 46.204391,
+    "lon": 6.143158,
+    "from": "05/01/2023",
+    "to": "11/01/2023",
+    "cardImg": "https://images.unsplash.com/photo-1604791648993-2c4e866efb5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1604791648993-2c4e866efb5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1550913052-56eb528b8e7c?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1584200463394-bba4b2117e4d?q=80&w=2107&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1580316205823-da182af14ab3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1561009897-d9e7771a67f0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Geneva is a city that offers a perfect blend of natural beauty, cultural richness, and international diplomacy. It sits along the shores of Lake Geneva and boasts a stunning backdrop of majestic mountains that create a tranquil and sophisticated ambiance. The iconic Jet d'Eau, a graceful water plume, symbolizes the city's elegance, while the United Nations headquarters highlights Geneva's pivotal role in global diplomacy. Visitors can explore Geneva's medieval charm by strolling through the Old Town and encountering historic landmarks such as St. Peter's Cathedral and Maison Tavel, the oldest house in Geneva. The city's commitment to humanitarian efforts is showcased at the International Red Cross and Red Crescent Museum, offering poignant insights into global initiatives. Geneva's devotion to sustainability is evident in its well-preserved parks and the extensive system of cycling paths along the Rhône River. The city also offers a diverse culinary scene, where traditional Swiss delicacies blend seamlessly with international flavors, especially in the vibrant neighborhoods of Carouge and Eaux-Vives. The Paquis district is known for its cosmopolitan essence and captures the city's diverse dining scene. Geneva's rich cultural landscape is further enhanced by institutions such as the Grand Théâtre de Genève and the Museum of Art and History. The city's annual International Film Festival adds a touch of glamour and artistic flair. In Geneva, each moment becomes an exploration of refined elegance, natural beauty, and a commitment to global betterment. The city's pristine landscapes and cultural offerings invite visitors to indulge in a serene yet cosmopolitan escape."
+  },
+  {
+    "id": 6,
+    "name": "Rio de Janeiro",
+    "lat": -22.908333,
+    "lon": -43.196388,
+    "from": "10/03/2023",
+    "to": "12/04/2023",
+    "cardImg": "https://images.unsplash.com/photo-1548963670-aaaa8f73a5e3?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1548963670-aaaa8f73a5e3?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?q=80&w=2126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1561577553-674ce32847a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1589394760151-b4c9890765fe?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1626568941852-70bc179e493e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Rio de Janeiro is a vibrant city that offers a unique blend of samba rhythms and natural beauty. It is nestled between lush mountains and a sparkling coastline. The city is known for its lively energy and cultural richness. The iconic Christ the Redeemer statue watches over the city from the towering Corcovado Mountain, offering panoramic views of the sprawling urban landscape and the golden beaches of Copacabana and Ipanema. The vibrant neighborhoods of Santa Teresa and Lapa showcase the city's artistic flair with colorful street art and historic architecture. The rhythmic beats of samba and the lively atmosphere of the famous Carnival are ingrained in the city's soul. The Tijuca National Park, one of the world's largest urban rainforests, invites exploration with hiking trails leading to hidden waterfalls and breathtaking views. In terms of culinary delights, Rio de Janeiro offers a delightful fusion of flavors, from traditional Brazilian barbecue to the fresh seafood of the bustling markets. The nightlife in neighborhoods like Lapa and Leblon adds an electric vibe to the city after sunset. In Rio de Janeiro, each moment is a celebration of life, where the warmth of the people, the sounds of the streets, and the natural beauty come together to create an unforgettable experience in the marvelous city."
+  },
+  {
+    "id": 7,
+    "name": "Tokyo",
+    "lat": 35.652832,
+    "lon": 139.839478,
+    "from": "10/06/2023",
+    "to": "22/06/2023",
+    "cardImg": "https://images.unsplash.com/photo-1617870314635-fc819547ec11?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1617870314635-fc819547ec11?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1606044466411-207a9a49711f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1614651856337-4170236601a9?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1580638858617-ed8f4c3fa6d7?q=80&w=2155&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1547222794-c5fe181eee6f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Exploring Tokyo is like delving into a metropolis where ancient traditions blend with cutting-edge technology, creating a mesmerizing tapestry of contrasts. Towering skyscrapers such as the Tokyo Skytree and Tokyo Tower stand against the backdrop of historic temples, embodying the city's unique blend of modernity and tradition. The bustling districts of Shibuya and Shinjuku pulse with neon lights and futuristic architecture, showcasing Tokyo's position at the forefront of innovation. Amidst this urban landscape, serene escapes like Meiji Shrine in Shibuya and the Imperial Palace Gardens provide a harmonious balance. Tokyo's culinary scene is a culinary adventure, ranging from the lively stalls of Tsukiji Outer Market to the high-end dining establishments in Ginza. The city's commitment to art and culture is reflected in districts like Roppongi, home to contemporary art museums and galleries. Traditional Japanese arts, such as tea ceremonies and ikebana, coexist with the vibrant pop culture of Akihabara, known for its anime and electronics shops. Cherry blossoms in Ueno Park and along the Sumida River bring a fleeting yet enchanting beauty during springtime. Efficient public transportation, including the iconic Tokyo Metro and JR lines, allows for seamless exploration of iconic sites such as Asakusa's Senso-ji Temple and the bustling districts of Harajuku and Odaiba. In Tokyo, every neighborhood offers a unique glimpse into Japan's rich cultural heritage and cutting-edge modernity, making it a captivating destination where the past and the future elegantly converge."
+  },
+  {
+    "id": 8,
+    "name": "Amsterdam",
+    "lat": 52.377956,
+    "lon": 4.89707,
+    "from": "05/08/2023",
+    "to": "12/08/2023",
+    "cardImg": "https://images.unsplash.com/photo-1549701455-d0d42354b009?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1549701455-d0d42354b009?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1468436385273-8abca6dfd8d3?q=80&w=2005&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1499241142330-28701ea87ff4?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1576924542622-772281b13aa8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Exploring Amsterdam means entering a city where historic canals wind through a charming landscape, creating an atmosphere of timeless beauty and progressive spirit. This Dutch capital, with its iconic row houses and picturesque bridges, offers a journey that seamlessly intertwines tradition and modernity. The historic Anne Frank House stands as a poignant reminder of the city's past, while the vibrant Jordaan district showcases Amsterdam's artistic soul with galleries, boutiques, and trendy cafes. The famous Rijksmuseum and Van Gogh Museum, nestled along Museumplein, celebrate the city's rich artistic heritage. The UNESCO-listed Canal Ring, crisscrossed by bike paths, is a testament to Amsterdam's commitment to sustainability. Visitors can discover hidden gems like the Begijnhof, a tranquil courtyard surrounded by historic buildings, by biking along the canals. The eclectic neighborhoods of De Pijp and Nine Streets offer a diverse culinary experience, from traditional Dutch treats to international cuisine. Amsterdam's thriving nightlife, particularly in the Red Light District and Rembrandtplein, adds a lively touch to the city after dark. Its open-minded and progressive atmosphere is also reflected in its unique architecture, cultural diversity, and commitment to sustainability. The city's innovative urban planning, including green initiatives and bike-friendly infrastructure, showcases a forward-thinking spirit. Every canal, cobblestone street, and museum in Amsterdam unveils a tapestry that celebrates the city's rich history and artistic prowess while embracing a modern and sustainable approach to urban living."
+  },
+  {
+    "id": 9,
+    "name": "London",
+    "lat": 51.509865,
+    "lon": -0.118092,
+    "from": "13/09/2023",
+    "to": "20/09/2023",
+    "cardImg": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1486299267070-83823f5448dd?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1532444143931-9f60a76242e7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1512734099960-65a682cbfe2b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1546885692-8e7c1b59da2c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1549470810-ae1a0da5b2eb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "London is a city where rich history and contemporary vibrancy blend seamlessly. The iconic skyline is dominated by landmarks like the Tower of London and the Shard, standing as a testament to the city's enduring legacy. Visitors can wander through the historic streets of Westminster, where they will encounter the majestic Houses of Parliament and the iconic Big Ben, symbols of the city's political prowess. A stroll along the South Bank of the Thames River offers panoramic views of landmarks such as the London Eye and St. Paul's Cathedral. London's cultural tapestry is woven with renowned institutions such as the British Museum, which houses treasures from around the world, and the Tate Modern, which showcases cutting-edge contemporary art. The West End, with its dazzling array of theaters, invites audiences into a world of captivating performances. The green expanses of Hyde Park and Kensington Gardens provide a serene escape amidst the urban hustle, while Camden Town's eclectic markets and vibrant street art reveal London's trendsetting and creative spirit. London's dynamic culinary scene caters to diverse tastes, from traditional pubs to Michelin-starred restaurants. The city's neighborhoods, from the trendy Shoreditch to the historic Greenwich, offer distinct atmospheres and experiences. London's efficient public transportation system, including the iconic red buses and the Tube, facilitates easy exploration of its diverse boroughs. Every corner of London tells a story of a city that gracefully balances its deep-rooted history with the pulse of modern life, creating an immersive and dynamic experience for every visitor."
+  },
+  {
+    "id": 10,
+    "name": "Sydney",
+    "lat": -33.86514,
+    "lon": 151.2099,
+    "from": "10/10/2023",
+    "to": "02/11/2023",
+    "cardImg": "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slides": [
+      "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1565840293007-ba62ca757c80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1589089759737-429dc294fab0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1600891318198-e2d16e86673c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Embarking on a journey through Sydney is an immersive experience in a dynamic city where the iconic Sydney Opera House and the Sydney Harbour Bridge define the picturesque skyline. This Australian gem seamlessly blends urban sophistication with the laid-back charm of its coastal setting. The Sydney Opera House, with its distinctive sail-like architecture, is a symbol of artistic brilliance, while the Sydney Harbour Bridge offers breathtaking views of the harbor and cityscape. Circular Quay buzzes with activity, serving as a gateway to the city's ferry system and hosting vibrant street performers. Sydney's coastal allure is evident in Bondi Beach, where golden sands meet the waves of the Pacific Ocean, attracting surfers and sun-seekers alike. The Royal Botanic Garden, with its lush greenery near the iconic Sydney Opera House, provides a serene escape in the heart of the bustling city. The Rocks, Sydney's historic district, showcases cobblestone streets, historic pubs, and vibrant markets. Darling Harbour, a waterfront precinct, offers a mix of entertainment, shopping, and dining with attractions like SEA LIFE Sydney Aquarium and WILD LIFE Sydney Zoo. The city's diverse culinary scene reflects its multicultural population, from fresh seafood at Sydney Fish Market to trendy eateries in Surry Hills. The vibrant neighborhoods of Newtown and Paddington add an artistic and bohemian touch to Sydney's cultural landscape. Efficient public transportation, including ferries and trains, makes it easy to explore Sydney's diverse neighborhoods and attractions. Sydney, with its blend of natural beauty, cultural richness, and modern amenities, invites visitors to discover a vibrant and welcoming metropolis."
+  }
+]

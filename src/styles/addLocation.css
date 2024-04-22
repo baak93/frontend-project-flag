@@ -1,0 +1,77 @@
+.formBackground {
+  background: url("https://images.unsplash.com/photo-1452423668729-43a98052d3ee?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  min-height: 922px;
+  position: absolute;
+  width: 100vw;
+  z-index: -1;
+}
+
+.formBackgroundMask {
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.75) 15%,
+    rgba(0, 0, 0, 0.2)
+  );
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.formContainer {
+  align-items: center;
+  color: #f8ebee;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: space-between;
+  margin-bottom: 80px;
+  min-height: 725px;
+  padding-top: 80px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  margin: auto;
+  max-width: 400px;
+  min-height: 50vh;
+  padding: 16px;
+}
+
+form > fieldset {
+  width: 60px;
+}
+
+.formDescription > h2 {
+  background-color: #3b465c;
+  border-radius: 8px;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+  display: inline-block;
+  margin: 0 48px 0 96px;
+  padding: 8px;
+}
+
+.formDescription > h4 {
+  display: inline-block;
+  margin: 24px 48px 24px 96px;
+  padding: 8px;
+}
+
+label > input {
+  margin: 0 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .formDescription > h2 {
+    margin: 0 48px 0 48px;
+  }
+  .formDescription > h4 {
+    margin-left: 48px;
+  }
+
+  form {
+    margin: 0 48px;
+  }
+}

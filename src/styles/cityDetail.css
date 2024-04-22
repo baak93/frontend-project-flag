@@ -1,0 +1,32 @@
+.cityDetailContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cityInfo {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  gap: 64px;
+  justify-content: center;
+  margin: 64px 96px;
+}
+
+.cityInfo > p {
+  max-width: 800px;
+}
+
+@media screen and (max-width: 768px) {
+  .cityInfo {
+    margin: 64px 48px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .carousel {
+    height: 250px;
+    max-width: 310px;
+  }
+}

@@ -1,0 +1,27 @@
+#error {
+  font-size: 96px;
+  margin: 0 96px;
+}
+
+.errorMessage {
+  margin: 24px 96px 323px;
+}
+
+.errorMessage > p {
+  padding: 8px;
+}
+
+.errorMessage > ul > li {
+  padding: 8px;
+}
+
+@media screen and (max-width: 1280px) {
+  #error {
+    font-size: 80px;
+    margin-left: 48px;
+  }
+
+  .errorMessage {
+    margin-left: 48px;
+  }
+}

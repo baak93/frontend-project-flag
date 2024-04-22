@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Michroma&family=Sarabun:wght@400;700&display=swap");
+@import url(styles/header.css);
+@import url(styles/hero.css);
+@import url(styles/cards.css);
+@import url(styles/footer.css);
+@import url(styles/addLocation.css);
+@import url(styles/about.css);
+@import url(styles/carousel.css);
+@import url(styles/cityDetail.css);
+@import url(styles/weather.css);
+@import url(styles/pageNotFound.css);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8ebee;
+  color: #3b465c;
+  font-family: "Sarabun", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}

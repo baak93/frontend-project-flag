@@ -1,0 +1,56 @@
+.heroImage {
+  background-image: url("/images/hero-image.jpg");
+  background-size: cover;
+  height: 80vh;
+  overflow: hidden;
+  width: 100%;
+}
+
+.heroMask {
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.75) 15%,
+    rgba(0, 0, 0, 0.2)
+  );
+  height: 80vh;
+  position: relative;
+  width: 100%;
+}
+
+.heroDetail {
+  bottom: 0;
+  color: #f8ebee;
+  margin: 48px 96px;
+  position: absolute;
+}
+
+.heroDetail > h1 {
+  font-size: 60px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.heroDetail > h2 {
+  font-size: 36px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .heroDetail > h1 {
+    font-size: 40px;
+  }
+
+  .heroDetail > h2 {
+    font-size: 24px;
+  }
+
+  .heroDetail {
+    bottom: 0;
+    color: #f8ebee;
+    margin: 48px 48px;
+    position: absolute;
+  }
+}
