@@ -42,8 +42,8 @@ function WeatherForecast({ lat, lon }) {
         ))}
       </div> */}
       <div className="forecastContainer">
-        {forecast.map((item) => (
-          <div className="weatherInfo">
+        {forecast.map((item, index) => (
+          <div className="weatherInfo" key={index}>
             <img
               src={
                 "https://openweathermap.org/img/wn/" +
