@@ -5,7 +5,7 @@ function Footer() {
         <p>© 2024 Bruno Alves Aragão</p>
         <div className="footerIcons">
           <a
-            href="https://github.com/baak93"
+            href="https://github.com/baak93/frontend-project-flag"
             target="_blank"
             rel="noopener noreferrer"
           >
